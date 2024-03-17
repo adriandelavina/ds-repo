@@ -1,0 +1,15 @@
+Tools (Python)
+. Jupyter Notebook
+. PyCharm
+. Google Colaboratory
+. VS Code
+. Spyder
+. Atom
+. Thonny
+
+Libraries (Python)
+. Tensorflow
+. NumPy
+. SciPy
+. Pandas
+. Matplotlib
